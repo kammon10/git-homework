@@ -1,0 +1,3 @@
+*/ My first takeaway is getting comfortable interacting with a project through several platforms. writing or coding in atom before running in terminal and finally pushing it through to git hub. This was initially a difficult concept to grasp but I can see how powerful this concept is and how imperative it will be in the near future.
+
+My second takeaway is learning to properly navigate my computer, learning shortcuts and proper screen management is something I've never taken the time to do. It turns out that proper navigation is going to take some time to feel comfortable with so I'm glad to have the opportunity to jump start this learning process before the program begins.
