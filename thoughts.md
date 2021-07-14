@@ -6,4 +6,6 @@ Two Strategies I'm committing to.
 
 1) Use my calendar obsessively! This is an incredibly powerful tool that will be imperative for success in any project or lifestyle with a heavy workload. Being comfortable utilizing my calendar effectively will be a crucial skill to develop.
 
-2) Stay on top of physical and mental health. Spending so much time in front of a screen will take a toll on my body and mind unless I stay ahead of it. I need to start each day with some form of exercise or stretching program at a minimum, and pre make meals for the week so I don' resort to junk food or not eating at all. 
+2) Stay on top of physical and mental health. Spending so much time in front of a screen will take a toll on my body and mind unless I stay ahead of it. I need to start each day with some form of exercise or stretching program at a minimum, and pre make meals for the week so I don' resort to junk food or not eating at all.
+
+Shoutout to Oscar Santos for helping me through a session 1 problem I was stuck on! And Michele Comfort for running through code ideas on session 2 hw.
